@@ -1,0 +1,1 @@
+getUserDetailsFromToken(token)
